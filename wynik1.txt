@@ -1,0 +1,8 @@
+Linia dna: 0  Wystapienia GC: 2
+Linia dna: 1  Wystapienia GC: 2
+Linia dna: 2  Wystapienia GC: 3
+Linia dna: 3  Wystapienia GC: 2
+Linia dna: 4  Wystapienia GC: 1
+Linia dna: 5  Wystapienia GC: 4
+Linia dna: 6  Wystapienia GC: 2
+Linia dna: 7  Wystapienia GC: 2

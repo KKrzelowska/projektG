@@ -1,0 +1,8 @@
+Linia dna: 0  Wystapienia GC__CG: None
+Linia dna: 1  Wystapienia GC__CG: None
+Linia dna: 2  Wystapienia GC__CG: None
+Linia dna: 3  Wystapienia GC__CG: <_sre.SRE_Match object; span=(6, 14), match='GCAACTCG'>
+Linia dna: 4  Wystapienia GC__CG: None
+Linia dna: 5  Wystapienia GC__CG: None
+Linia dna: 6  Wystapienia GC__CG: None
+Linia dna: 7  Wystapienia GC__CG: None

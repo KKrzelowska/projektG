@@ -1,0 +1,8 @@
+Linia dna: 0  Wystapienia C{A}C: <_sre.SRE_Match object; span=(10, 14), match='CAAC'>
+Linia dna: 1  Wystapienia C{A}C: <_sre.SRE_Match object; span=(21, 25), match='CAAC'>
+Linia dna: 2  Wystapienia C{A}C: <_sre.SRE_Match object; span=(5, 9), match='CAAC'>
+Linia dna: 3  Wystapienia C{A}C: <_sre.SRE_Match object; span=(7, 11), match='CAAC'>
+Linia dna: 4  Wystapienia C{A}C: <_sre.SRE_Match object; span=(29, 31), match='CC'>
+Linia dna: 5  Wystapienia C{A}C: <_sre.SRE_Match object; span=(8, 12), match='CAAC'>
+Linia dna: 6  Wystapienia C{A}C: <_sre.SRE_Match object; span=(17, 21), match='CAAC'>
+Linia dna: 7  Wystapienia C{A}C: <_sre.SRE_Match object; span=(23, 25), match='CC'>
